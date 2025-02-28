@@ -6,7 +6,6 @@
 - 🔭 I have experience with the languages C, C++, C#, Java, JavaScript and many more!
 
 ### Contact
-- 📫 Contact me at [viniciusgsantos@protonmail.com](mailto:viniciusgsantos@protonmail.com)
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/vinicius-gabriel-santos-teixeira)
 
 
